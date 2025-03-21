@@ -1,2 +1,0 @@
-# LifeSync-
-Personal Wellness Tracker
